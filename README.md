@@ -1,4 +1,4 @@
-# Job Tracker Pro - Job Application Management System
+# Job Tracker - Job Application Management System
 
 A comprehensive web-based job application tracking system built with PHP and MySQL. This application helps job seekers organize, track, and manage their job applications efficiently with a modern, responsive interface.
 
